@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 120" fill="none">
+  
+  <g stroke="#C99A3C" stroke-width="0.6" fill="none" opacity="0.9">
+    <circle cx="60" cy="60" r="46"></circle>
+    <circle cx="60" cy="60" r="36" opacity="0.55"></circle>
+    
+    <path d="M60 14 L60 106 M14 60 L106 60" opacity="0.18"></path>
+    <path d="M27 27 L93 93 M93 27 L27 93" opacity="0.12"></path>
+  </g>
+  
+  <g transform="translate(60 60)">
+    <path d="M0 -16 L10 -4 L6 14 L-6 14 L-10 -4 Z" fill="#F4F1EA" fill-opacity="0.04" stroke="#F4F1EA" stroke-width="0.7"></path>
+    <path d="M0 -16 L0 14 M-10 -4 L10 -4 M-6 14 L6 14" stroke="#F4F1EA" stroke-width="0.45" opacity="0.65"></path>
+    
+    <circle cx="0" cy="0" r="3" fill="#8FB86B" opacity="0.55"></circle>
+    <circle cx="0" cy="0" r="1.2" fill="#E9F3DB"></circle>
+  </g>
+  
+  <text x="132" y="56" font-family="&#39;Shippori Mincho&#39;,&#39;Zen Old Mincho&#39;,&#39;Noto Serif JP&#39;,serif" font-size="26" fill="#F4F1EA" letter-spacing="6">こくん堂</text>
+  <text x="133" y="82" font-family="&#39;Cormorant Garamond&#39;,serif" font-style="italic" font-weight="300" font-size="13" fill="#C99A3C" letter-spacing="6">C O K U N D O</text>
+</svg>
