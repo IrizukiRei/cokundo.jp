@@ -1,0 +1,19 @@
+:root {
+  --c-sumi: #0b0b0a;
+  --c-sumi-soft: #141716;
+  --c-silk: #f7f3ea;
+  --c-silk-soft: rgba(247, 243, 234, 0.78);
+  --c-kogane: #c99a3c;
+  --c-kogane-pale: #efd28b;
+  --c-kinari-dim: rgba(247, 243, 234, 0.56);
+  --c-wakakusa: #9fbd8f;
+  --c-kessho: #dff7ff;
+  --line: rgba(247, 243, 234, 0.32);
+  --line-soft: rgba(247, 243, 234, 0.16);
+  --font-sans-jp: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", "Yu Gothic UI", Meiryo, sans-serif;
+  --font-mincho: "Hiragino Mincho ProN", "Yu Mincho", "YuMincho", serif;
+  --font-serif-en: Georgia, "Times New Roman", serif;
+  --font-mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  --dur-base: 180ms;
+  --ease-shrine: cubic-bezier(0.2, 0.7, 0.2, 1);
+}
